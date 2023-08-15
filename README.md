@@ -15,6 +15,7 @@ sequenceDiagram
 
     selain-->>palvelin: https://studies.cs.helsinki.fi/exampleapp/data.json
     palvelin-->>selain: [{ "content": "HTML is easy", "date": "2023-1-1" }, ... ]
+Note right of browser: The browser executes the callback function that renders the notes 
 ```
 
 
