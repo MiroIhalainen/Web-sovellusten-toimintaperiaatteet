@@ -12,6 +12,9 @@ sequenceDiagram
 
     selain-->>palvelin: https://studies.cs.helsinki.fi/exampleapp/main.js
      palvelin-->>selain: JavaScript dokumentti
+
+    selain-->>palvelin: https://studies.cs.helsinki.fi/exampleapp/data.json
+    palvelin-->>selain: [{ "content": "HTML is easy", "date": "2023-1-1" }, ... ]
 ```
 
 
