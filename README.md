@@ -1,4 +1,3 @@
-Käyttäjä luo uuden muistiinpanon:
 
 ```mermaid
 sequenceDiagram
