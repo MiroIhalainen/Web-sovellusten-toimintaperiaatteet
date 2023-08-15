@@ -11,7 +11,4 @@ https://studies.cs.helsinki.fi/exampleapp/notes
 ```
 
 
-```mermaid
-graph TD;
-  Käyttäjä-->
-```
+
